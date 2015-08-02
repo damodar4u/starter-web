@@ -13,3 +13,5 @@ demo
 Please fork this repo and issue pull req for review
 
 ### Adding more text for rebasing
+
+### some more edits for rebasing in myfeature
