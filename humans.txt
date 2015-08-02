@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Demo yours@haha.com @kissme
 
 # THANKS
 
